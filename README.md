@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Hola, soy Felipe Martínez
 
-<!--
-**FelipeMV-5/FelipeMV-5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Desarrollo de Aplicaciones Web (DAW)
 
-Here are some ideas to get you started:
+Actualmente estoy especializándome en el desarrollo de aplicaciones, Inteligencia Artificial y automatización de procesos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Mi objetivo
+
+Mi objetivo es convertirme en desarrollador especializado en IA y automatización, creando proyectos reales que resuelvan problemas y aporten valor a empresas.
+
+En este perfil encontrarás proyectos relacionados con:
+
+- 🤖 Inteligencia Artificial
+- ⚡ Automatización con n8n
+- 🌐 Desarrollo Web
+- 🛠 APIs y Backend
+- 📊 Procesamiento de datos
+- ☁️ Cloud y Docker
+
+---
+
+## 🛠 Tecnologías que estoy aprendiendo
+
+- JavaScript
+- Node.js
+- Express
+- Git & GitHub
+- Docker
+- PostgreSQL
+- n8n
+- OpenAI API
+- HTML
+- CSS
+- SQL
+
+---
+
+## 📂 Proyectos
+
+Próximamente iré publicando proyectos reales como:
+
+- 📄 Asistente IA para PDFs
+- 📧 Automatización de Gmail
+- 🤖 Chatbots con IA
+- 🎬 Generador automático de vídeos
+- 📹 Sistema de clips para Twitch
+- 📱 Automatización de redes sociales
+- 📈 CRM con Inteligencia Artificial
+
+---
+
+## 📈 Objetivos para 2026
+
+- Construir más de 15 proyectos reales.
+- Dominar n8n y las automatizaciones.
+- Aprender arquitectura de APIs.
+- Crear mi primer SaaS.
+- Conseguir mis primeros clientes.
+
+---
+
+⭐ Gracias por visitar mi perfil.
